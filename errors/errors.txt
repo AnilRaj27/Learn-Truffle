@@ -1,0 +1,2 @@
+Do truffle develop before doing truffle console
+https://ethereum.stackexchange.com/questions/70718/error-could-not-connect-to-your-ethereum-client-with-the-following-parameters
